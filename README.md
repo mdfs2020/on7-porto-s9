@@ -25,4 +25,4 @@ Funcionários:
 
 8 - A livaria gostaria de ter acesso a idade de um funcionário, de acordo com seu id. 
 
-**Observação:** Popule nosso model de livros e funcionários com pelo menos 10 registros em cada.#on7-porto-s9
+**Observação:** Popule nosso model de livros e funcionários com pelo menos 10 registros em cada.
